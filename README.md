@@ -13,7 +13,7 @@ Implemented by [Raquel G. Alhama](https://rgalhama.github.io/) (rgalhama@mpi.nl)
 
 ## Prerequisites
 
-* Python3.6, with the requirements specified in environment.yml 
+* Python3.6
 * Pytorch (and other requirements specified in environment.yml)
 * Patience :) 
 
