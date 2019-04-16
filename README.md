@@ -55,8 +55,12 @@ For the neural network model:
 If you use or refer to our work, please cite:
 
 @article{Alhama2019cogsci,
+
   author  = {Raquel G. Alhama and Noam Siegelman and Ram Frost and Blair C. Armstrong},
+
   title   = {The Role of Entropy in Visual Word Recognition: A Perceptually-Constrained Connectionist Account},
-  journal = {Proceedings of the 41st Annual Conference of the Cognitive Science Society.},
+
+  journal = {Proceedings of the 41st Annual Conference of the Cognitive Science Society},
+
   year    = {2019}
 }
