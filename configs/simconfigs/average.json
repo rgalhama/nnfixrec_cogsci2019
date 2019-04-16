@@ -1,0 +1,15 @@
+
+{
+  "output_every": 10,
+  "training_fixations": "average",
+  "weight_uniform_if_avg": 0.5,
+  "word_repetitions_batch": 20,
+
+"convergence": {
+  "andor": "and",
+  "convergence_criteria": ["max_epochs"],
+  "last_epoch": 200
+
+}
+
+}

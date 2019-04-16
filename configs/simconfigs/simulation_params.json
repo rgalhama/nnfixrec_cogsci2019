@@ -1,0 +1,14 @@
+
+{
+  "output_every": 5,
+  "training_fixations": "behavioral",
+  "word_repetitions_batch": 20,
+
+"convergence": {
+  "andor": "and",
+  "convergence_criteria": ["max_epochs"],
+  "last_epoch": 200
+
+}
+
+}

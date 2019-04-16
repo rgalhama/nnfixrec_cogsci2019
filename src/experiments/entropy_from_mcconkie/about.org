@@ -1,0 +1,7 @@
+Calculations of entropy/information remaining after fixating in a certain letter position.
+
+Fixation model used:
+
+McConkie, G. W., Kerr, P. W., Reddix, M. D., Zola, D., & Jacobs,
+A. M.   (1989).   Eye movement control during reading:  Ii. fre-
+quency of refixating a word.Perception & Psychophysics,46(3),245–253

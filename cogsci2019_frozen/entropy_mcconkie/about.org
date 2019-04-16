@@ -1,0 +1,10 @@
+Intermediate files and computations used for submission to Cogsci2019.
+
+Words are from opensubtitle corpus, after cleaning (which is just removing foreign letters; see script in corpus_processing folder).
+(clean_LANG_50k.txt)
+
+Params:
+    wordlen=7
+    nreps=10
+    drop=0.25
+    fixations=[2,6]
