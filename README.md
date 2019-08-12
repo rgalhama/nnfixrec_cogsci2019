@@ -58,7 +58,7 @@ If you use or refer to our work, please cite:
 
   author  = {Raquel G. Alhama and Noam Siegelman and Ram Frost and Blair C. Armstrong},
 
-  title   = {The Role of Entropy in Visual Word Recognition: A Perceptually-Constrained Connectionist Account},
+  title   = {The Role of Information in Visual Word Recognition: A Perceptually-Constrained Connectionist Account},
 
   journal = {Proceedings of the 41st Annual Conference of the Cognitive Science Society},
 
