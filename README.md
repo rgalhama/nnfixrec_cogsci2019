@@ -5,7 +5,7 @@ Code used in the paper:
 Raquel G. Alhama, Noam Siegelman, Ram Frost &amp; Blair C. Armstrong (2019). The Role of Entropy in Visual Word Recognition: A Perceptually-Constrained Connectionist Account. _Proceedings of the 41st Annual Conference of the Cognitive Science Society_. [CogSci2019]
 
 Includes: 
-- Study 1: information-theoretic analyses of corpora, incorporating occulomotor constraints 
+- Study 1: quantification of information-content in English and Hebrew words from different fixation locations
 - Study 2: a perceptually-constrained neural network model of word recognition 
 
 Implemented by [Raquel G. Alhama](https://rgalhama.github.io/) (rgalhama@mpi.nl).
